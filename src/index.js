@@ -1,3 +1,3 @@
 module.exports = function greet() {
-    return 'Hello, World!'
+    return 'Hello, Mars!'
 }
